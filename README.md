@@ -16,9 +16,10 @@ This submission addresses the following tasks:
 
 * `fashion_mnist_cnn.ipynb`: Contains all the Python code for CNN implementation, training, evaluation, and prediction.
 
-## Prerequisites for Python Implementation
+## Prerequisites for Python and R Implementation
 
-To run this project, you need Python installed (version 3.7 or higher recommended) along with the following libraries:
+ For Python
+ To run this project, you need Python installed (version 3.7 or higher recommended) along with the following libraries:
 
 * `tensorflow` (includes Keras)
 * `numpy`
